@@ -1,0 +1,21 @@
+{
+    "chain_name": "ZENROCK",
+    "coingecko" : "",
+    "api": ["https://zenrock-testnet-api.itrocket.net"],
+    "rpc": ["https://zenrock-testnet-rpc.itrocket.net"],
+    "sdk_version": "0.50.9",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "zen",
+    "logo": "/logos/zen.png",
+    "assets": [{
+        "base": "urock",
+        "symbol": "ROCK",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/zen.png"
+    }]
+}
+
+
+
