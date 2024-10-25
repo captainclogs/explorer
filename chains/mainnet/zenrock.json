@@ -7,13 +7,13 @@
     "coin_type": "118",
     "min_tx_fee": "200",
     "addr_prefix": "zen",
-    "logo": "/logos/zen.png",
+    "logo": "https://framerusercontent.com/images/Rll6aPdtcYJKREoXmXAGeYzRMbQ.png",
     "assets": [{
         "base": "urock",
         "symbol": "ROCK",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/zen.png"
+        "logo": "https://framerusercontent.com/images/Rll6aPdtcYJKREoXmXAGeYzRMbQ.png"
     }]
 }
 
