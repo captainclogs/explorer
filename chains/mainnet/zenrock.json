@@ -1,8 +1,8 @@
 {
     "chain_name": "zenrock",
     "coingecko" : "",
-    "api": ["https://zenrock-testnet-api.itrocket.net"],
-    "rpc": ["https://zenrock-testnet-rpc.itrocket.net"],
+    "api": ["https://api.clogs.space/"],
+    "rpc": ["https://rpc.clogs.space/"],
     "sdk_version": "0.50.9",
     "coin_type": "118",
     "min_tx_fee": "200",
